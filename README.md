@@ -1,7 +1,3 @@
-Sure! Here’s a more professional version of your README file:
-
----
-
 # Movie Recommendation System
 
 This project implements a movie recommendation system using two different methods: **Collaborative Filtering** and **Content-Based Filtering**. The dataset used consists of three CSV files:
